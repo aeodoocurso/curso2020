@@ -3,8 +3,9 @@
     'version':'13.0.1.0.0',
     'category': 'Custom',
     'depends':[
-        'website',
+        'crm',
     ],
     'data':[
+        'views/website_curso_template.xml'
     ],
 }
